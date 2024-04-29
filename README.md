@@ -1,2 +1,2 @@
 # QuadPlus
-This repository consists of some MATLAB codes simulating over-actuated quadrotors and some videos pertaining to the QuadPlus quadrotor operation.
+MATLAB data simulating an over-actuated quadrotor through multiple scenarios such as hover and fixed-attitude hover. : propeller net forces, tilt angles and quadrotor states.
